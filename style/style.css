@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(225, 233, 232);
+} 
+
+h1,h2,h3,ul,p{
+    color: rgb(0, 0, 0);
+    font-family: 'Roboto', sans-serif;
+    padding-left: 200px;
+}
+
+h1{ 
+    font-size: 30px;
+}
